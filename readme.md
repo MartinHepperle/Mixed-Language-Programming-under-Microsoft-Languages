@@ -9,7 +9,7 @@ for MS-DOS:
 - Microsoft Pascal 3.31
 - Microsoft Quick Basic 4.5
 - Microsoft Quick C 2.5
-[- Microsoft Cobol 5.0 (modifications to the assembler code were required)]
+- Microsoft Cobol 5.0 (modifications to the assembler code were required)
 
 The main directory contains the tools MASM.EXE and LINK.EXE, as well as the 
 assembler source code in FUNC.ASM which is used by all languages except Cobol.
