@@ -23,3 +23,5 @@ All these compiled programs should produce the same output.
 If you want to use the full feature set of each compiler you should get the 
 original distributions and install them on your system.
 For Cobol only the source files and a batch file have been provided.
+
+For more details see the file README.TXT.
